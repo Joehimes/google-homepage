@@ -1,0 +1,68 @@
+
+ul {
+    padding: 10px 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: .9em;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #eaf0f5;
+}
+
+footer {
+    bottom: 10px;
+    position: fixed;
+    width: 100%;
+}
+
+.nav-right {
+    float: right;
+}
+
+.headline {
+    padding-top: 10%;
+    text-align: center;
+}
+
+.search-input {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.input {
+    width: 25%;
+    height: 40px;
+    opacity: 25%;
+    border-radius: 25px;
+    box-shadow: 2px 2px grey;
+}
+
+.search-buttons {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.google-search {
+    margin: 0 10px;
+}
+
+.right-footer {
+    float: right;
+}
